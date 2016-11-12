@@ -10,3 +10,5 @@ Git is a free software
 git modify
 git modify
 git
+git
+tig
